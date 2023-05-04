@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_binary -  prints the binary representation of a number.
- * @n: Number to print in binary
- * Return: void
+ * print_binary - it prints the binary that represents a number.
+ * @n: to print number in binary
+ * Return: return void success
 */
 void print_binary(unsigned long int n)
 {

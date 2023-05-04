@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * get_bit - get the value of a bit at a given index.
+ * get_bit - to get the value of a given in an index.
  * @n: Number to search in
- * @index: Position of bit
+ * @index: bit position
  * Return: Value of bit @index in @n
  */
 int get_bit(unsigned long int n, unsigned int index)
